@@ -24,4 +24,4 @@ CSS3 (Basic Styling)
 🌐 Live Demo
 
 Click here to view my portfolio
- (Replace # with your deployed website link, e.g., GitHub Pages or Netlify)
+  ( https://santhoshcodes565.github.io/protfolio-simple-website/ )
